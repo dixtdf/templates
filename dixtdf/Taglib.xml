@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <PluginURL>https://raw.githubusercontent.com/dixtdf/taglib/master/plugins/taglib.plg</PluginURL>
+  <PluginAuthor>dixtdf</PluginAuthor>
+  <Beta>True</Beta>
+  <Category>Productivity: Tools:System</Category>
+  <Name>Taglib</Name>
+  <Description>Taglib is a simple custom label manager</Description>
+  <Support>https://github.com/dixtdf/taglib/issues</Support>
+  <Icon>https://raw.githubusercontent.com/dixtdf/docker-templates/master/dixtdf/images/taglib.png</Icon>
+</Containers>
