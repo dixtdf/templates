@@ -7,5 +7,5 @@
   <Name>Taglib</Name>
   <Description>Taglib is a simple custom label manager</Description>
   <Support>https://github.com/dixtdf/taglib/issues</Support>
-  <Icon>https://raw.githubusercontent.com/dixtdf/templates/master/dixtdf/images/taglib.png</Icon>
+  <Icon>https://raw.githubusercontent.com/dixtdf/templates/main/dixtdf/taglib.png</Icon>
 </Containers>
