@@ -2,7 +2,7 @@
 <Containers>
   <PluginURL>https://raw.githubusercontent.com/dixtdf/taglib/master/plugins/taglib.plg</PluginURL>
   <PluginAuthor>dixtdf</PluginAuthor>
-  <Beta>True</Beta>
+  <Beta>False</Beta>
   <Category>Productivity: Tools:System</Category>
   <Name>Taglib</Name>
   <Description>Taglib is a simple custom label manager</Description>
